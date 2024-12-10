@@ -1,0 +1,6 @@
+#include<studio.h>
+int main(
+{
+ printf("I am a student of CEC")
+ return 0;
+)
